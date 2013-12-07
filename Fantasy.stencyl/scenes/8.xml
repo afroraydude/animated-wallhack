@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scene depth="3" desc="" eventsnippetid="217" extheight="960" extwidth="3264" extx="-32" exty="-32" format="2.1" gravx="-0.0" gravy="120.0" height="896" id="8" name="Level 01" revision="" savecount="0" tiled="1" tileh="32" tilew="32" type="standard" width="3200">
+    <layers>
+        <layer color="0,255,0" id="2" name="Layer 2" order="0"/>
+        <layer color="100,168,234" id="0" name="Layer 0" order="1"/>
+        <layer color="0,0,255" id="1" name="Layer 1" order="2"/>
+    </layers>
+    <grad-bg b1="102" b2="255" g1="51" g2="204" r1="0" r2="153"/>
+    <backgrounds>
+        <ref id="473"/>
+    </backgrounds>
+    <foregrounds/>
+    <joints/>
+    <regions>
+        <region b="64" g="64" h="72" id="0" name="Region 0" pts="4,0.0,0.0,0.0,72.0,66.0,72.0,66.0,0.0" r="64" type="box" w="66" x="692" y="763"/>
+    </regions>
+    <terrainRegions/>
+    <actors>
+        <actor a="0.0" aid="1" c="false" group="0" id="432" name="Jumper 1" sx="1.0" sy="1.0" x="69" y="767" z="0"/>
+    </actors>
+    <snippets/>
+    <terrain>
+        <p pts="4,3200.0,0.0,3200.0,96.0,0.0,96.0,0.0,0.0" x="0.0" y="800.0"/>
+    </terrain>
+</scene>
